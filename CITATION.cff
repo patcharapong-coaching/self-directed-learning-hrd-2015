@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: If you use this independent study, please cite it as below.
+title: "A Study of an Opinion on Self-Directed Learning of Students in the Master of Arts Program in Human Resource Development, Ramkhamhaeng University"
+authors:
+  - family-names: Pongpochai
+    given-names: Patcharapong
+    alias: พชรพงศ์ พงษ์โพธิ์ไชย
+type: thesis
+year: 2015
+institution:
+  - name: Ramkhamhaeng University
+keywords:
+  - self-directed learning
+  - human resource development
+  - Ramkhamhaeng University
+  - การเรียนรู้ด้วยตน
+  - การพัฒนาทรัพยากรมนุษย์
+license: CC-BY-NC-4.0
